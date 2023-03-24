@@ -11,7 +11,7 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-// I datatypes in JS descrivono i differenti tipi di dati utilizzabili nel codice e servono per creare variabili.
+// I datatypes in JS descrivono i differenti tipi di dati utilizzabili nel codice e servono per creare variabili e funzioni.
 // Esistono diversi datatypes:
 // - Stringa: rappresenta valori di testo, sempre racchiusi tra apici singoli o doppi;
 // - Numero: rappresenta valori numerici interi o decimali;
